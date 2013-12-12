@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEvalRepeatedString", "CodeEvalRepeatedString\CodeEvalRepeatedString.csproj", "{8BE97ECB-1B34-4F2B-A431-D396F349B4BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeEvalUglyNumbers", "CodeEvalUglyNumbers\CodeEvalUglyNumbers.csproj", "{D30118DF-F016-49D0-91E7-DE69DFC1F656}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE97ECB-1B34-4F2B-A431-D396F349B4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE97ECB-1B34-4F2B-A431-D396F349B4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE97ECB-1B34-4F2B-A431-D396F349B4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE97ECB-1B34-4F2B-A431-D396F349B4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D30118DF-F016-49D0-91E7-DE69DFC1F656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30118DF-F016-49D0-91E7-DE69DFC1F656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30118DF-F016-49D0-91E7-DE69DFC1F656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30118DF-F016-49D0-91E7-DE69DFC1F656}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
